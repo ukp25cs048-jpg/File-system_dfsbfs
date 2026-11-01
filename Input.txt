@@ -1,0 +1,17 @@
+7
+Root
+Documents
+Pictures
+Resume
+Report
+Photo
+Logo
+0 1 1 0 0 0 0
+1 0 0 1 1 0 0
+1 0 0 0 0 1 1
+0 1 0 0 0 0 0
+0 1 0 0 0 0 0
+0 0 1 0 0 0 0
+0 0 1 0 0 0 0
+0
+Report
